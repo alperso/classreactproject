@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Alper ",
+      "salary": "500",
+      "depart": "Bilişim",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "AhmetÖö",
+      "salary": "320",
+      "depart": "kilişim"
+    },
+    {
+      "name": "Alper",
+      "salary": "DASD",
+      "depart": "çö",
+      "id": 3
+    },
+    {
+      "name": "Alper",
+      "salary": "454",
+      "depart": "Ahmet",
+      "id": 4
+    },
+    {
+      "name": "ttoys-backend",
+      "salary": "23",
+      "depart": "çö",
+      "id": 5
+    },
+    {
+      "name": "Alper2",
+      "salary": "52322",
+      "depart": "Bilişim2",
+      "id": 6
+    }
+  ]
+}
